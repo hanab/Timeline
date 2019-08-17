@@ -1,0 +1,26 @@
+[
+ {
+ "profile_id": "freemium_profile",
+ "first_name": "Otto",
+ "last_name": "Nova",
+ "gender": "male",
+ "display_name": "Otto Nova",
+ "is_primary_profile": true,
+ "tariff_label": "First Class",
+ "date_of_birth": "1989-01-01",
+ "address": {
+ "street": "Ottostr.",
+ "street_number": "4",
+ "zip": "80333",
+ "city": "MÃ¼nchen"
+ },
+ "contact": {
+ "email": "feedback@ottonova.app",
+ "phone": "089 12 14 07 12"
+ },
+ "profile_attributes": [
+                        "freemium",
+                        "signup_complete"
+                        ]
+ }
+ ]
